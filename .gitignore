@@ -8,10 +8,6 @@ __pycache__/
 venv/
 
 
-# Data & models
-*.h5
-*.csv
-*.json
 
 # Jupyter
 .ipynb_checkpoints/
